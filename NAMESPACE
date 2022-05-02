@@ -1,1 +1,1 @@
-export(gaemothae)
+export('gaemothae.R')
