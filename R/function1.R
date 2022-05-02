@@ -1,4 +1,1 @@
-myName <- function() print("SeHyoung")
-
-
 gaemothae <- function() print(c("박재형", "신민철"))
